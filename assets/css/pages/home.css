@@ -1,0 +1,5 @@
+.img-ipt {
+    border: 3px solid #ffffff;
+    -webkit-box-shadow: 0 0.5rem 1.5rem 0.5rem rgba(0, 0, 0, 0.075);
+    box-shadow: 0 0.5rem 1.5rem 0.5rem rgba(0, 0, 0, 0.075); 
+}
